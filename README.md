@@ -6,9 +6,9 @@
 
 https://gist.github.com/RochaGabriell/be715c3d2e0e084ec9ef3f0e75d97897
 
-**Repositório do Projeto:**
+**Notion do Projeto:**
 
-https://github.com/tiagofrbarbosa/alura_django_templates_e_boas_praticas
+https://elfin-effect-c09.notion.site/Django-125190147c16801d92bee84339e21057
 
 **Principais Arquivos e Diretórios:**
 
